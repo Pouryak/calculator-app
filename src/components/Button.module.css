@@ -1,0 +1,27 @@
+.button {
+  text-align: center;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 3px;
+  height: 35px;
+  border: none;
+}
+
+.operations {
+  background-color: #8a8c8d;
+  color: #fff;
+}
+
+.numbers {
+  background-color: #f7f7f7;
+}
+
+.equals {
+  background-color: #228be6;
+  color: #fff;
+}
+
+.clear {
+  background-color: #e03131;
+  color: #fff;
+}

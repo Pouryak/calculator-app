@@ -1,0 +1,14 @@
+.screen {
+  border: 1px solid grey;
+  border-radius: 3px;
+  width: 95;
+  text-align: right;
+  margin: 1rem;
+  padding: 0.1rem 0.5rem;
+  margin-top: 1rem;
+  background-color: #fff9db;
+}
+
+.result {
+  color: #495057;
+}
